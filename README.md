@@ -4,7 +4,7 @@
 
 
 
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px><h2 align="center">Hey there! I'm Diego Erazo</h2>
+<h2 align="center">Hey there! I'm Diego Erazo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 <p align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&center=true&width=435&lines=Software+Developer" alt="Typing SVG" /></a>
 </p>

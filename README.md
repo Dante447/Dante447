@@ -5,10 +5,11 @@
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' /><h2 align="center">Hey there! I'm Diego Erazo</h2>
-
 <p align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer" alt="Typing SVG" /></a>
 </p>
+
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 

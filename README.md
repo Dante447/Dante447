@@ -13,7 +13,7 @@
 🎓 &nbsp;I'm currently studying Computer Science.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 🧠 &nbsp;I believe in learning by doing: building projects, solving real problems and collaborating with others.\
-🤝 &nbsp;Open to collaborate on open source projects.\
+🤝 &nbsp;Open to collaborate on open source projects.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

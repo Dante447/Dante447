@@ -15,7 +15,7 @@
 🧠 &nbsp;I believe in learning by doing: building projects, solving real problems and collaborating with others.\
 🤝 &nbsp;Open to collaborate on open source projects.
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/59/9f/a1/599fa17fe95adbd5509096bc672b21c0.gif" align="right" height="200px"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

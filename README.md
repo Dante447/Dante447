@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" alt="Banner" width="80%" height="250px" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer" alt="Typing SVG" /></a>
 </p>
 
 
